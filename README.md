@@ -1,2 +1,4 @@
 # blog-travel
- Web Development Course Project - Udemy.  Travel Blog
+
+
+Projeto proposto no curso - Complete Web Development  - Udemy. Travel Blog
